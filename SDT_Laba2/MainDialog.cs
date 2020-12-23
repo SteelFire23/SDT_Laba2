@@ -28,5 +28,10 @@ namespace SDT_Laba2
             form.ShowDialog();
             
         }
+
+        private void MainDialog_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
